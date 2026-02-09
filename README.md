@@ -1,0 +1,1 @@
+# Kinematic-equations-for-projectile-motion
