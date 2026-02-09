@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1770634968 source:c:\users\andre\onedrive\desktop\test\main.cpp
+	<graphics.h>
+	<cmath>
+	<iostream>
+	<vector>
+	<cstdio>
+
